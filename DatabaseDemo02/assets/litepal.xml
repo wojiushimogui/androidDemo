@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<litepal>  
+
+    <dbname value="demo" ></dbname>  
+  
+    <version value="8" ></version>  
+ 
+    <list>  
+        <mapping class="wu.rang.hao.databasedemo02.News"></mapping>
+        <mapping class="wu.rang.hao.databasedemo02.Comment"></mapping>
+         <mapping class="wu.rang.hao.databasedemo02.Introduce"></mapping>
+          <mapping class="wu.rang.hao.databasedemo02.Category"></mapping>
+    </list>  
+</litepal>
